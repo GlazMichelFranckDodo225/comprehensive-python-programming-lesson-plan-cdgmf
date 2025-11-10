@@ -31,4 +31,4 @@ _temp = 2
 # Bad names
 # 2user = "John"
 # class
-# first - name = "Hugo"
+# first-name = "Hugo"
