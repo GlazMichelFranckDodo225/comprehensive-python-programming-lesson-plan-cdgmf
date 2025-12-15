@@ -1,5 +1,5 @@
-# Arithmetic
-# +, -, *, /, //, %, **
+# Arithmetic Operators
+# +, -, *, /, //, %, **.
 
 # addition
 addition = 7 + 2
